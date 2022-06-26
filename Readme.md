@@ -1,4 +1,4 @@
-
+# Project Sample: [![Build status](https://ci.appveyor.com/api/projects/status/n6es6q3kofj5n7mk?svg=true)](https://ci.appveyor.com/project/Gabr12el/auto6bdd)
 
 # Домашнее задание к занятию «2.4. BDD»
 
